@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "김진동"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "진동은 잘 "
+  bio              : "진동은 잘 모름"
   location         : #"Somewhere"
   email            :
   links:
