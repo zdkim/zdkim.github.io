@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "김진동의 소음진동 블로그"
 title_separator          : "-"
-subtitle                 : coustics/Psychoacoustics/Signal Processing
+subtitle                 : "Acoustics/Psychoacoustics/Signal Processing"
 name                     : "김진동"
 description              : #"소음 진동 분야에 관심이 잇숨미다"
 url                      : "https://zdkim.github.io"
