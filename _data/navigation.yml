@@ -10,13 +10,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  
- docs:
-  - title: 음향학
-    url: /docs/음향학/
-  - title: 심리음향학
-    url: /docs/심리음향학/
-  - title: 신호처리
-    url: /docs/신호처리/
-  - title: 소음진동기사
-    url: /docs/소음진동기사/
